@@ -1,5 +1,8 @@
 p{
     color: rgb(117, 118, 120);
-    font: inherit;
-    font-size: large;
+    font: bold;
+    font-size: smaller;
+}
+body{
+    background-color: rgb(96, 119, 119);
 }
