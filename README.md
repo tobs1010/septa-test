@@ -1,2 +1,3 @@
 # septa-test
-practice for git
+differences between var, let and const variables
+javascript data types
