@@ -19,16 +19,64 @@
 // Symbols: A Symbol is a unique and immutable primitive value.The symbol type is used to create unique identifiers for objects.
 // Objects: Object is a value in memory which is possibly referenced by an identifier.Objects are the only mutable values.
 
+// params or placeholder
+function addition(x){         
+    console.log(2 + x);
+}
+
+ addition(5)            
 
 
 
+function greet(name){
+    console.log (name);
+}
+
+ greet("gabriel")   
+
+
+let sum1 = 2 + 2
+let sum2 = 3 + 2
+let sum3 = 4 + 2
+let sum4 = 5 + 2
+
+function country(Country,abbreviation){
+    console.log (Country + " " + abbreviation);
+}
+
+country("Nigeria","Nig")
+country("Ghana","Gha")
+country("Russia","Rus")
+country("Germany","Ger")
+
+function sum(a,b){
+    console.log(a + "+" + b + "=" + (a+b))
+}
+sum(2,1)
+sum(6,7)
+
+
+function sub(a,b){
+    console.log(a + "-" + b + "=" + (a-b))
+}
+sub(10,5)
+sub(20,7)
+
+
+function multiply(a,b){
+console.log(a + "x" + b + "=" + (a*b))
+}
+
+multiply(7,7)
+multiply(6,3)
 
 
 
+function addition(x,y){         
+    console.log(x + y);
+}
 
-
-
-
+ addition(3,8) 
 
 
 
